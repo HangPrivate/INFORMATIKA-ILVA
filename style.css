@@ -10,7 +10,7 @@ body{
   padding:10px;
   justify-content: center;
   align-items: center;
-  background:linear-gradient(45deg,#4A52AF,#10133D,#04061D);
+  background:#FACCFF;
 }
 .start-btn{
   width:100%;
