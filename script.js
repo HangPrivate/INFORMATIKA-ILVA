@@ -123,8 +123,8 @@ const questions = [
     answer: "1"
   },
   {
-    question: "Sistem Operasi yang digunakan di Iphone?",
-    options: ["DEBIAN", "UBUNTU", "DEBIAN", "IOS"],
+    question: "Apa itu js?",
+    options: ["Javascript", "javascrape", "java", "javascraper"],
     answer: "1"
   },
   {
