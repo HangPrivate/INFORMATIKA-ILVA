@@ -12,6 +12,12 @@ body{
   align-items: center;
   background:linear-gradient(45deg,#4A52AF,#10133D,#04061D);
 }
+footer {
+  text-align: center;
+  margin-top: 20px;
+  font-size: 18px;
+  color:linear-gradient(45deg,#4A52AF,#10133D,#04061D);
+}
 .start-btn{
   width:100%;
   text-align:center;
