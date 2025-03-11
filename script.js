@@ -125,7 +125,7 @@ const questions = [
   {
     question: "Apa itu js?",
     options: ["Javascript", "javascrape", "java", "javascraper"],
-    answer: "1"
+    answer: "0"
   },
   {
     question: "Perangkat Keras Yang di gunakan untuk mengetik?",
